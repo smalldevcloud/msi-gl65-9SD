@@ -5,7 +5,7 @@
  <br> Intel Core i7 9750H
  <br> UHD 630 & Nvidia 1660( disabled cause mac os not supported)
  <br> 16GB DDR4
- <br> 1TB Kingston m.2 nvme drive 
+ <br> 1TB Samsung EVO 980 m.2 nvme drive 
  <br> 144Hz FHD Laptop Display
 <h2>What does not working:</h2>
  <br>HDMI
