@@ -1,14 +1,13 @@
-# msi gl65 9SD
-MSI GL65-9SD opencore EFI for Big Sur
-Laptop Specs
-  Intel Core i7 9750H
-  UHD 630 & Nvidia 1660( disabled cause mac os not supported)
-  16GB DDR4
-  1TB Kingston m.2 nvme drive 
-  144Hz FHD Laptop Display
-
-What does not working:
- HDMI
- Sound
- Sleep
- 
+<h1>
+  MSI GL65-9SD opencore EFI for Big Sur
+</h1>
+<h2>Laptop Specs</h2>
+ <br> Intel Core i7 9750H
+ <br> UHD 630 & Nvidia 1660( disabled cause mac os not supported)
+ <br> 16GB DDR4
+ <br> 1TB Kingston m.2 nvme drive 
+ <br> 144Hz FHD Laptop Display
+<h2>What does not working:</h2>
+ <br>HDMI
+ <br>Sound
+ <br>Sleep
