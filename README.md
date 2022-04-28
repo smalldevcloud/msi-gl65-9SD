@@ -7,6 +7,8 @@
  <br> 16GB DDR4
  <br> 1TB Samsung EVO 980 m.2 nvme drive 
  <br> 144Hz FHD Laptop Display
+ <br> USB 3.0 (x3)
+ <br> USB Type-C (x1)
 <h2>What does not working:</h2>
  <br>HDMI
  <br>Sound
