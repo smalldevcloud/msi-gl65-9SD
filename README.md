@@ -1,5 +1,5 @@
 <h1>
-  MSI GL65-9SD opencore EFI for Big Sur
+  MSI GL65-9SD opencore EFI for Big Sur & for Monterey
 </h1>
 <h2>Laptop Specs</h2>
  <br> Intel Core i7 9750H
